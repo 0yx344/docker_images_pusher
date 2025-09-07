@@ -1,3 +1,4 @@
 ghcr.io/snowdreamtech/frps:nightly-alpine3.20
 phpdockerio/php:7.4-fpm
 rke-extended-life/hyperkube:v1.30.14-rancher1
+docker.m.daocloud.io/rke-extended-life/hyperkube:v1.30.14-rancher1
